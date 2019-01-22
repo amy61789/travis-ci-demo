@@ -1,0 +1,19 @@
+{
+  "name": "travis-ci-demo",
+  "version": "1.0.0",
+  "description": "\"My very first Travis CI project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amy61789/travis-ci-demo.git"
+  },
+  "author": "Amy Funk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amy61789/travis-ci-demo/issues"
+  },
+  "homepage": "https://github.com/amy61789/travis-ci-demo#readme"
+}
